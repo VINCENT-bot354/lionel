@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 48px; /* Twice as big */
+    font-weight: bold; /* Very bold */
+    color: black; /* Black text */
+}
+
+button {
+    padding: 20px 40px; /* Bigger button */
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 32px; /* Bigger button text */
+    font-weight: bold;
+}
+
+.poetry-bg {
+    background: url("messi.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
